@@ -1,0 +1,5 @@
+print(max(7,5,6,3,8,2))
+print(bin(304))
+print(hex(304))
+print(chr(8364))
+print(abs(-17))
