@@ -1,3 +1,7 @@
+'''Products are marked with a special code consisting of 3 digits and a fourth control digit. 
+The forth digit is determined by calculating the remainder of dividing the sum of the first three digits by 7. 
+Define a function f(product_code) that returns True if the product code is correct or False otherwise. '''
+
 def f(product_code):
        digits = product_code[:3]
        if not digits.isdigit():

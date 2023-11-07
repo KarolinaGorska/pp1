@@ -1,6 +1,4 @@
-#def f(n):
-#    for i in range(n):
- #       print("*", end="/")
+'''Define a function f(n) that returns a string of n asterisks, separated by a slash sign. '''
 def f(n):
     if n <= 0:
         return ""

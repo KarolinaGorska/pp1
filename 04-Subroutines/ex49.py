@@ -1,3 +1,6 @@
+'''The sequence of digits contains the number of points rolled with a dice. 
+Define a function f(dice) that returns a number specifying the number of dice rolled the most times in a row. '''
+
 def f(dice):
     if dice == "":
         return None  

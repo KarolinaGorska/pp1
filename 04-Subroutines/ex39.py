@@ -1,3 +1,6 @@
+'''A sentence is an ordered group of words separated by spaces (spaces). 
+Define a function f(sentence) that returns a sentence with spaces removed. '''
+
 def f(sentence):
     sentence_without_spaces = sentence.replace(" ", "")
     return sentence_without_spaces

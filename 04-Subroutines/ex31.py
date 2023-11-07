@@ -1,3 +1,5 @@
+'''31.	Define the function f(x,y) that returns the number of negative even numbers in the range <x,y>. '''
+
 def f(x,y):
     count = 0
     for i in range(x,y+1):

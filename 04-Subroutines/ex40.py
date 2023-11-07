@@ -1,3 +1,5 @@
+'''Define a function f(number) that returns the sum of repeated digits in a number. '''
+
 def f(number):
     number_str = str(number)
     digit_count = {}

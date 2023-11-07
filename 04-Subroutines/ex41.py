@@ -1,3 +1,6 @@
+'''Define the function f(n) that returns the n-th prime number. 
+A prime number is a natural number greater than 1, divisible by 1 and that number. '''
+
 def f(n):
     primes = []
     num = 2

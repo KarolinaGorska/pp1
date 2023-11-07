@@ -1,3 +1,5 @@
+'''A text contains any number of words. Define a function f(name) that returns the acronym (first letters of all words).'''
+
 def f(name):
     name = list(name)
     acronym = ""

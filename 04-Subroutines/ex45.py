@@ -1,3 +1,6 @@
+'''An expression contains operators for adding and subtracting single-digit numbers. 
+Define a function f(expression) that returns the value of the expression. '''
+
 def f(expression):
     result = 0
     current_number = 0
